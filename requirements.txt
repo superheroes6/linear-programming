@@ -1,0 +1,9 @@
+ortools
+SciPy
+PuLP
+Pyomo
+GLOP 
+SCIP
+Gurobi 
+Cplex
+pywraplp
