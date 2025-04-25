@@ -1,9 +1,8 @@
-ortools
+pulp
 SciPy
-PuLP
 Pyomo
-GLOP 
+GLOP
 SCIP
-Gurobi 
+Gurobi
 Cplex
-pywraplp
+SQLAlchemy
